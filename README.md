@@ -1,4 +1,5 @@
 # fmutter_chart_tut
+![Screenshot 2023-07-02 172313](https://github.com/elias79b/BITCOIN_PRICE/assets/85472154/febdb4db-b28b-4e0d-b268-0c84c74c59ee)
 
 A new Flutter project.
 
